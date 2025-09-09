@@ -1,1 +1,1 @@
-# Elasticsearch Logstash Kibana
+<span style="color:red">Elasticsearch Logstash Kibana</span>
