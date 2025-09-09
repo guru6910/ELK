@@ -30,8 +30,8 @@ Useful for creating dashboards, monitoring logs, or detecting anomalies.
 
 # $${\color{purple} \textbf{🔄 Workflow Summary:}}$$
 
-Logstash (or Beats) collects logs from your servers or applications.
+**Logstash** (or Beats) collects logs from your servers or applications.
 
-Logs are processed and sent to Elasticsearch.
+Logs are processed and sent to **Elasticsearch**.
 
-You use Kibana to visualize, search, and monitor the data.
+You use **Kibana** to visualize, search, and monitor the data.
