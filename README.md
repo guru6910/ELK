@@ -1,1 +1,1 @@
-# $${\color{red} \textbf{Elasticsearch Logstash Kibana}$$
+# $${\color{red} \textbf{Elasticsearch Logstash Kibana}}$$
